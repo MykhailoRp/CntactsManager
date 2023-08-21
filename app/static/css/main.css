@@ -1,0 +1,57 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+.content {
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+}
+
+table, td, th {
+    border: 1px solid #aaa;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.form {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.form_input {
+    width: 25%;
+}
+.sort_option {
+    width: 100%;
+    height: 100%;
+}
+
+.actions{
+    width: 10%;
+}
+
+.alerts{
+    text-align: center;
+    margin-top: 20px;
+    color: red;
+}
+
+#content {
+    width: 90%;
+}
